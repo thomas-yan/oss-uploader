@@ -44,3 +44,9 @@ gunicorn -w 4 -b 0.0.0.0:4000 server:app
 ```
 
 Access http://your-ip:4000 to visit the web interface
+
+## LICENSE
+
+**MIT**
+
+
